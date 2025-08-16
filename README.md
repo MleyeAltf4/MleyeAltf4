@@ -21,7 +21,7 @@ Je m'appelle MOUHAMADOU LEYE, étudiant en licence 3 Réseaux,systémes et sécu
 - 📊 Détecter et analyser des incidents via outils de supervision et monitoring  
   
 
-#### 📂 Projets réalisés
+### 📂 Projets réalisés
 
 - 🔹 **Sécurisation d’une infrastructure réseau avec pfSense et supervision Zabbix**  
   _Mise en place d’un pare-feu pfSense (filtrage, VPN, haute disponibilité) et intégration d’un serveur Zabbix pour supervision en temps réel et détection proactive des anomalies._  
