@@ -2,14 +2,15 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
 ## À propos de moi
-Je m'appelle MOUHAMADOU LEYE, étudiant en licence 3 Réseaux,systémes et sécurité. Passionné par la **sécurisation des données d’entreprise** et l’**anticipation des attaques**, je travaille sur des projets liés à la protection des infrastructures, la supervision réseau, et la détection des menaces.
+Je m'appelle MOUHAMADOU LEYE, étudiant en licence 3 Réseaux,systémes et sécurité. Passionné par la **sécurité informatique** et de **cybersécurité**, je travaille sur des projets liés à la protection des infrastructures, la supervision réseau, et la détection des menaces.
 
 ## Compétences
-- **Réseaux** : Configuration de pare-feu (pfSense), TCP/IP, VLAN, VPN.
-- **Supervision** : Zabbix pour la surveillance des performances et détection d’anomalies.
-- **Systèmes** : Linux (Ubuntu, Kali), Windows Server.
-- **Programmation/Scripting** : Python, Bash (intermédiaire).
-- **Outils de sécurité** : Wireshark, Nmap, TryHackMe (CTF).
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-lightgrey?style=for-the-badge&logo=gnu-bash)
+![Metasploit](https://img.shields.io/badge/Metasploit-red?style=for-the-badge)
   
 
 ## Projets
