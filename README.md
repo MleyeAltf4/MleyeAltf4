@@ -2,20 +2,38 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
 ## À propos de moi
-Je m'appelle MOUHAMADOU LEYE, étudiant en licence 3 Réseaux,systémes et sécurité. Passionné par la **sécurité informatique** et de **cybersécurité**, je travaille sur des projets liés à la protection des infrastructures, la supervision réseau, et la détection des menaces.
+Je m'appelle MOUHAMADOU LEYE, étudiant en licence 3 Réseaux,systémes et sécurité. passionné par Linux, la cybersécurité et le cloud. Je travaille sur des projets liés à la protection des infrastructures, la supervision réseau, et la détection des menaces.
 
 ## Compétences
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
-![Nmap](https://img.shields.io/badge/Nmap-lightgrey?style=for-the-badge&logo=gnu-bash)
-![Metasploit](https://img.shields.io/badge/Metasploit-red?style=for-the-badge)
+### 🌐 Réseau
+- 📡 Concevoir, déployer et administrer des infrastructures réseau locales et multisites  
+- 🔌 Mettre en place et configurer des services réseau (DNS, DHCP, VPN, VoIP)  
+- 📶 Superviser et diagnostiquer les performances d’un réseau  
+
+### 💻 Systèmes
+- 🖥️ Installer, configurer et administrer des serveurs Linux et Windows  
+- ⚙️ Automatiser certaines tâches via scripts Python ou Bash  
+- 🛠️ Assurer la maintenance et l’optimisation des systèmes  
+
+### 🔐 Sécurité
+- 🛡️ Mettre en place des politiques de filtrage et de contrôle d’accès  
+- 🔒 Sécuriser une infrastructure réseau avec pare-feu et segmentation VLAN  
+- 📊 Détecter et analyser des incidents via outils de supervision et monitoring  
   
 
-## Projets
-- **[Sécurisation d’une infrastructure avec pfSense et Zabbix](#)** : Projet de fin de licence pour sécuriser un réseau d’entreprise avec un pare-feu pfSense et superviser via Zabbix. [Lien vers le dépôt](#).
-- **[Projet en cours](#)** : Configuration d’un SIEM avec ELK Stack pour détecter des anomalies réseau (bientôt disponible !).
+#### 📂 Projets réalisés
+
+- 🔹 **Sécurisation d’une infrastructure réseau avec pfSense et supervision Zabbix**  
+  _Mise en place d’un pare-feu pfSense (filtrage, VPN, haute disponibilité) et intégration d’un serveur Zabbix pour supervision en temps réel et détection proactive des anomalies._  
+  📎 [Voir le projet](https://github.com/MleyeAltf4/pfsense-zabbix-securite)  
+
+- 🔹 **Mise en place d’une infrastructure réseau sous Linux**  
+  _Installation et configuration d’un réseau local sous Debian/Ubuntu Server avec services réseau (DNS, DHCP, partage de fichiers)._  
+  📎 [Voir le projet](https://github.com/MleyeAltf4/infrastructure-linux)  
+
+- 🔹 **Configuration multisite VoIP**  
+  _Déploiement d’un système de téléphonie IP (Asterisk) interconnectant plusieurs sites via VPN et trunk SIP._  
+  📎 [Voir le projet](https://github.com/MleyeAltf4/voip-multisite)  
 
 
 
@@ -25,9 +43,9 @@ Je m'appelle MOUHAMADOU LEYE, étudiant en licence 3 Réseaux,systémes et sécu
 
 
 ## Objectifs
-- Approfondir mes compétences en SIEM (ELK Stack, Splunk) et threat intelligence.
+- Approfondir mes compétences en sécurité et en IA.
 - Contribuer à des projets open-source en cybersécurité.
-- Réussir un stage de 6 mois en sécurisation des données d’entreprise.
+- Réussir un stage dans une entreprise.
 
 *Explorez mes dépôts pour découvrir mes projets !*
 <!--
